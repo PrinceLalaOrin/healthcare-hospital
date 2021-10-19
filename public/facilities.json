@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "facility": "Modern Labour Room",
+      "price": 10000,
+      "pic": "./photos/labor room.jpg",
+      "minorpoint": "The LDR is designed for nearly all births. It can handle a birth for women choosing to go unmedicated or those who wish to have an epidural.",
+      "details": "The labor room is one of the most versatile rooms in a hospital. It is called a labor, delivery, and recovery room (LDR). This is the type of room that some hospitals and almost all birth centers use for their care. Once you are placed in a room, this is the room that you will use for your labor and birth, including the initial hours of recovery."
+    },
+    {
+      "id": 2,
+      "facility": "Blood Test",
+      "price": 3000,
+      "pic": "./photos/blood-test.jpg",
+      "minorpoint": "The healthcare professional who arranges your blood test will tell you whether there are any specific instructions you need to follow before your test.",
+      "details": "A blood test usually involves taking a blood sample from a blood vessel in your arm.The arm is a convenient part of the body to use because it can be easily uncovered. The usual place for a sample to be taken from is the inside of the elbow or wrist, where the veins are relatively close to the surface."
+    },
+    {
+      "id": 3,
+      "facility": "Covid19-vaccine",
+      "price": 0,
+      "pic": "./photos/vaccine.png",
+      "minorpoint": "Everyone 12 years of age and older – including those who are pregnant and recently pregnant/breastfeeding – is recommended to get a COVID-19 vaccination. Get a COVID-19 vaccine as soon as you can to protect from yourself and your loved ones from COVID. ",
+      "details": " All COVID vaccines (Pfizer, Moderna and Sinopharm) continue to provide very good protection against severe COVID illness, hospitalization, and death, even during our current surge of the Delta variant.  In fact, people who are fully vaccinated are between 13x and 23x less likely to be hospitalized than those who are not vaccinated. The MOST IMPORTANT thing you can do to protect yourself and your family, including young children, against serious COVID illness is to get your COVID vaccine."
+    },
+    {
+      "id": 4,
+      "facility": "ECG",
+      "price": 20000,
+      "pic": "./photos/ECG.png",
+      "minorpoint": "An electrocardiogram records the electrical signals in your heart. It is a common and painless test used to quickly detect heart problems and monitor your hearts health.",
+      "details": "An electrocardiogram is a safe procedure. There is no risk of electrical shock during the test because the electrodes used do not produce electricity. The electrodes only record the electrical activity of your heart.You may have minor discomfort, similar to removing a bandage, when the electrodes are removed. Some people develop a slight rash where the patches were placed."
+    },
+    {
+      "id": 5,
+      "facility": "Emergency Facilities",
+      "price": 18000,
+      "pic": "./photos/emergency-facilities.png",
+      "minorpoint": "An emergency department (ED),is a medical treatment facility specializing in emergency medicine, the acute care of patients.",
+      "details": "Patients whose condition is not immediately life-threatening will be sent to an area suitable to deal with them, and these areas might typically be termed as a prompt care or minors area. Such patients may still have been found to have significant problems, including fractures, dislocations, and lacerations requiring suturing."
+    },
+    {
+      "id": 6,
+      "facility": "Ambulance Service",
+      "price": 10000,
+      "pic": "./photos/ambulance.png",
+      "minorpoint": "An ambulance is a medically equipped vehicle which transports patients to treatment facilities, such as hospitals.Typically, out-of-hospital medical care is provided to the patient.",
+      "details": "Ambulances are used to respond to medical emergencies by emergency medical services. For this purpose, they are generally equipped with flashing warning lights and sirens. They can rapidly transport paramedics and other first responders to the scene, carry equipment for administering emergency care and transport patients to hospital or other definitive care. Most ambulances use a design based on vans or pick-up trucks. Others take the form of motorcycles, cars, buses, aircraft and boats."
+    }
+  ]
